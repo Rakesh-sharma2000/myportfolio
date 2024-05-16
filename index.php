@@ -53,7 +53,8 @@
 </head>
 
 <body>
-<marquee style="background-color: #000; padding: 10px; color: #fff;">  Currently working in The Needleads Technology <a href="http://theneedleads.com/">theneedleads.com/</a></marquee> 
+<marquee style="background-color: #000; padding: 10px; color: #fff;">  Currently working ad <b><i>Sr. Web And Graphic Designer (Fronted Developer)</i></b> in The Needleads Technology <a href="http://theneedleads.com/">theneedleads.com/</a></marquee>
+
   <!-- ======= Mobile nav toggle button ======= -->
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
@@ -191,7 +192,7 @@ modern technologies and best design practices. Experienced with Html And Php And
               <div class="progress">
               <span class="skill">Wordpress <i class="val">75%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
  <div class="progress">
@@ -248,13 +249,13 @@ modern technologies and best design practices. Experienced with Html And Php And
              <div class="progress">
               <span class="skill">After Effects <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
  <div class="progress">
               <span class="skill">Premiere pro <i class="val">70%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="70" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
@@ -1241,6 +1242,7 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
+<!--
   <footer id="footer">
     <div class="container">
       <div class="copyright">
@@ -1251,13 +1253,18 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
         Designed by <a href="#">Rakesh Sharma</a>
       </div>
     </div>
-  </footer><!-- End  Footer -->
+  </footer>  
+-->
 <div class="fix">
      <a href="https://wa.me/9540559250?text=I'm%20interested%20in%20your%20Profile%20please%20call"  target="_blank" class="nav-link scrollto"><i class="bx bxl-whatsapp"></i></a>
     
 </div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
-
+ 
+<div class="footb">
+    
+       <marquee style="background-color: #000; padding: 10px; color: #fff;">  Rakesh Sharma - Senior Web & Graphic Designer | Over 4 Years of Experience | Available for Freelance Projects | Contact: <b>+91 9540559250</b></marquee> 
+</div>
   <!-- Vendor JS Files -->
   <script src="vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="vendor/aos/aos.js"></script>
