@@ -90,7 +90,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero" class="d-flex flex-column justify-content-center align-items-center">
     <div class="hero-container" data-aos="fade-in">
-      <h1>Rakesh Sharma</h1>
+      <h2 class=" text-white fw-1" >Rakesh Sharma</h2>
       <p>I'm <span class="typed" data-typed-items="Graphic Designer, Web designer (Fronted Developer), Freelancer, Social Post Designer"></span></p>
     </div>
   </section><!-- End Hero -->
@@ -227,7 +227,7 @@ modern technologies and best design practices. Experienced with Html And Php And
               </div>
             </div>
                 <div class="progress">
-              <span class="skill">Canwa <i class="val">95%</i></span>
+              <span class="skill">Canva <i class="val">95%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="95" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
@@ -1238,6 +1238,166 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
 
       </div>
     </section><!-- End Contact Section -->
+    
+    
+    
+    <section class="tags">
+        <div class="container">
+            <div class="row">
+               
+               
+               
+                <div class="col-md-12">
+                    <div class="section-title text-center">
+          <h2>This content is for freelance project use.</h2>
+
+        </div> 
+                </div>
+                
+                  <div class="col-md-12">
+                    <div class="section-title">
+          <h2>SEO Services</h2>
+          <p> 
+Increase your online visibility and increase organic traffic with our comprehensive SEO services. We use the latest techniques and strategies to improve your search engine rankings, ensuring that your website stands out in the competitive market. Our SEO services include keyword research, on-page optimization, link building, and performance tracking. </p>
+        </div>
+                </div>
+                
+                
+                <div class="col-md-12">
+                    <div class="section-title">
+          <h2>website design</h2>
+          <p> 
+Create a stunning, user-friendly website that reflects the essence of your brand. Our website design services focus on aesthetic appeal, usability, and responsiveness. We tailor each design to meet your specific needs, ensuring a seamless user experience across all devices. </p>
+        </div>
+                </div>
+                
+                
+                <div class="col-md-12">
+                    <div class="section-title">
+          <h2>website development</h2>
+          <p> 
+Turn your ideas into reality with our expert website development services. We build robust, scalable and secure websites using the latest technologies. Our development process ensures that your website is not only visually appealing but also functionally superior.
+       
+       </p>
+        </div>
+                </div>
+                
+                
+                <div class="col-md-12">
+                    <div class="section-title">
+          <h2>website maintenance</h2>
+          <p> 
+Keep your website running smoothly with our reliable website maintenance services. To ensure your website stays in top condition, we provide regular updates, security checks and performance optimizations. Our maintenance packages are designed for businesses of all sizes. </p>
+        </div>
+                </div>
+                
+                
+                <div class="col-md-12">
+                    <div class="section-title">
+          <h2>mobile app</h2>
+          <p> 
+Expand your reach with a custom mobile application. Our mobile app development services cover both iOS and Android platforms, giving you a powerful tool to engage your audience. We focus on building intuitive, feature-rich apps that deliver exceptional user experiences.
+        </p>
+        </div>
+                </div>
+                
+                
+                <div class="col-md-12">
+                    <div class="section-title">
+          <h2>hcaxczc</h2>
+          <p> 
+Experienced web developer and design enthusiast from New Delhi with a degree from Delhi University. Proficient in HTML/CSS/Bootstrap and skilled in creating captivating social media posts using Adobe Suite. Family-oriented individual with a strong foundation from Mathura, adept at balancing creativity and technical expertise. </p>
+        </div>
+                </div>
+                
+                
+                <div class="col-md-12">
+                    <div class="section-title">
+          <h2>Local SEO Services</h2>
+          <p> 
+Dominate your local market with our targeted local SEO services. We optimize your online presence to attract more local customers using strategies like local keyword optimization, Google My Business management and local link building. Increase your visibility in local search results and drive more traffic to your business. </p>
+        </div>
+                </div>
+                
+                
+                <div class="col-md-12">
+                    <div class="section-title">
+          <h2>email marketing</h2>
+          <p> 
+Engage and retain your customers with our effective email marketing campaigns. We design and implement personalized email strategies that deliver your message directly to your audience. From newsletters to promotional emails, we help you stay connected with your customers and increase conversions. </p>
+        </div>
+                </div>
+                
+                
+                <div class="col-md-12">
+                    <div class="section-title">
+          <h2>Information Technology Services</h2>
+          <p> 
+Streamline your operations with our comprehensive IT services. We provide solutions that increase the efficiency and security of your business, including network management, IT support and systems integration. Our team of experts is dedicated to delivering reliable and scalable IT solutions.
+       </p>
+        </div>
+                </div>
+                
+                
+                 <div class="col-md-12">
+                    <div class="section-title">
+          <h2>Rakesh Sharma Portfolio</h2>
+          <p> 
+Explore the variety of projects and expertise of Rakesh Sharma. His portfolio showcases a variety of successful IT projects, highlighting his skills in web development, app development and IT consulting. Each project reflects their commitment to quality and innovation.
+       </p>
+        </div>
+                </div>
+                
+                
+                 <div class="col-md-12">
+                    <div class="section-title">
+          <h2>Freelance IT Services</h2>
+          <p> 
+Access top tier IT expertise on a freelance basis with Rakesh Sharma. Offering a wide range of IT services, Rakesh provides flexible and cost-effective solutions to suit your business needs. Whether you need project-based support or ongoing IT management, he delivers exceptional results.
+       </p>
+        </div>
+                </div>
+                
+                
+                 <div class="col-md-12">
+                    <div class="section-title">
+          <h2>remote IT support</h2>
+          <p> 
+Get professional IT support no matter where you are with our remote IT services. We provide quick and efficient solutions to your IT issues, ensuring minimal downtime and disruption to your business. Our remote support is accessible, reliable, and available when you need it most.
+
+       </p>
+        </div>
+                </div>
+                
+                
+                 <div class="col-md-12">
+                    <div class="section-title">
+          <h2>freelance software development</h2>
+          <p> 
+Amplify your brand voice with our social media marketing services. We create and manage engaging social media campaigns across various platforms to increase awareness and engagement about your brand. Our strategies are designed to connect with your audience and foster lasting relationships.
+       </p>
+        </div>
+                </div>
+                
+                
+                 <div class="col-md-12">
+                    <div class="section-title">
+          <h2>Freelance IT Consulting</h2>
+          <p> 
+Enhance your business strategy with expert IT consulting services. 
+       </p>
+        </div>
+                </div>
+                
+                
+               
+                
+                
+                
+            </div>
+        </div>
+        
+    </section>
 
   </main><!-- End #main -->
 
