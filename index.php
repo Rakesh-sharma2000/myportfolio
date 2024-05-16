@@ -194,6 +194,12 @@ modern technologies and best design practices. Experienced with Html And Php And
                 <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
+ <div class="progress">
+              <span class="skill"><b><i><u>Server And Domain All Work Handle </u></i></b> <i class="val">100%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
 
           </div>
 
