@@ -53,7 +53,12 @@
 </head>
 
 <body>
-<marquee style="background-color: #000; padding: 10px; color: #fff;">  Currently working in The Needleads Technology <a href="http://theneedleads.com/">theneedleads.com/</a></marquee> 
+<marquee style="    background-color: #000;
+    padding: 10px;
+    color: #fff;
+    font-weight: 800;
+    font-size: 18px;
+}">  Currently working in The Needleads Technology <a href="http://theneedleads.com/">theneedleads.com/</a></marquee> 
   <!-- ======= Mobile nav toggle button ======= -->
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
