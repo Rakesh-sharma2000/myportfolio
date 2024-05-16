@@ -53,12 +53,7 @@
 </head>
 
 <body>
-<marquee style="    background-color: #000;
-    padding: 10px;
-    color: #fff;
-    font-weight: 800;
-    font-size: 18px;
-}">  Currently working in The Needleads Technology <a href="http://theneedleads.com/">theneedleads.com/</a></marquee> 
+<marquee style="background-color: #000; padding: 10px; color: #fff;">  Currently working in The Needleads Technology <a href="http://theneedleads.com/">theneedleads.com/</a></marquee> 
   <!-- ======= Mobile nav toggle button ======= -->
   <i class="bi bi-list mobile-nav-toggle d-xl-none"></i>
 
@@ -239,6 +234,19 @@ modern technologies and best design practices. Experienced with Html And Php And
                
               <div class="progress">
               <span class="skill">Social Media <i class="val">100%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+             <div class="progress">
+              <span class="skill">After Effects <i class="val">80%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+ <div class="progress">
+              <span class="skill">Premiere pro <i class="val">70%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
