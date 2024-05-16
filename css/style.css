@@ -1168,3 +1168,10 @@ section {
     color: #fff;
     border-radius: 5px;
 }
+.footb {
+    z-index: 9999999999;
+    position: fixed;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+}
