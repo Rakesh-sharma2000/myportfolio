@@ -799,15 +799,7 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
               </div>
             </div>
           </div>
-             <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/27.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="img/portfolio/27.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our And Other Company post"><i class="bx bx-plus"></i></a>
-               
-              </div>
-            </div>
-          </div>
+             
              <div class="col-lg-3 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="img/portfolio/28.jpg" class="img-fluid" alt="">
@@ -853,15 +845,7 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
               </div>
             </div>
           </div>
-             <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/32.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="img/portfolio/32.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our And Other Company post"><i class="bx bx-plus"></i></a>
-               
-              </div>
-            </div>
-          </div>
+     
              <div class="col-lg-3 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="img/portfolio/33.jpg" class="img-fluid" alt="">
@@ -970,15 +954,7 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
               </div>
             </div>
           </div>
-             <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/45.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="img/portfolio/45.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our And Other Company post"><i class="bx bx-plus"></i></a>
-               
-              </div>
-            </div>
-          </div>
+             
              <div class="col-lg-3 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="img/portfolio/46.jpg" class="img-fluid" alt="">
@@ -1006,23 +982,7 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
               </div>
             </div>
           </div>
-             <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/49.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="img/portfolio/49.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our And Other Company post"><i class="bx bx-plus"></i></a>
-               
-              </div>
-            </div>
-          </div> <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/50.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="img/portfolio/50.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our And Other Company post"><i class="bx bx-plus"></i></a>
-               
-              </div>
-            </div>
-          </div>
+             
              <div class="col-lg-3 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
               <img src="img/portfolio/51.jpg" class="img-fluid" alt="">
@@ -1185,16 +1145,8 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
               </div>
             </div>
           </div>
-             <div class="col-lg-3 col-md-6 portfolio-item filter-app">
-            <div class="portfolio-wrap">
-              <img src="img/portfolio/70.jpg" class="img-fluid" alt="">
-              <div class="portfolio-links">
-                <a href="img/portfolio/70.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Our And Other Company post"><i class="bx bx-plus"></i></a>
-               
-              </div>
-            </div>
-          </div>
-                 <div class="col-md-12 text-center anchir"> <a href="#contact" target="_blank">I Have More Designs</a> </div> 
+             
+                 <div class="col-md-12 text-center "> <div class="wss"><a href="tel:9540559250" target="_blank">I Have More Designs (Click To Call)</a> </div> </div> 
 
         </div>
 
@@ -1281,7 +1233,10 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
       </div>
     </div>
   </footer><!-- End  Footer -->
-
+<div class="fix">
+     <a href="https://wa.me/9540559250?text=I'm%20interested%20in%20your%20Profile%20please%20call"  target="_blank" class="nav-link scrollto"><i class="bx bxl-whatsapp"></i></a>
+    
+</div>
   <a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
 
   <!-- Vendor JS Files -->
