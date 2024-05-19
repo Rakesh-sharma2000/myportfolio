@@ -1423,9 +1423,9 @@ Enhance your business strategy with expert IT consulting services.
  
 <div class="footb">
     
-       <marquee style="background-color: #000; padding: 10px; color: #fff;">  Rakesh Sharma - Senior Web & Graphic Designer | Over 4 Years of Experience | Available for Freelance Projects | Contact: <b>+91 9540559250</b></marquee> 
+       <marquee style="background-color: #000; padding: 10px; color: #fff;">  Rakesh Sharma - Senior Web & Graphic Designer | Over 4 Years of Experience | Contact: <b>+91 9540559250</b></marquee> 
 </div>
-  <!-- Vendor JS Files -->
+  <!-- Vendor JS Files | Available for Freelance Projects-->
   <script src="vendor/purecounter/purecounter_vanilla.js"></script>
   <script src="vendor/aos/aos.js"></script>
   <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
