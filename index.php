@@ -356,10 +356,10 @@ Experienced web developer and design enthusiast from New Delhi with a degree fro
 
        <div class="row">
           
- <div class="col-md-3"> <a href="www.membranedecors.com" target="_blank">Membrane Decors</a> </div>
-         <div class="col-md-3"> <a href="www.nortusfitness.com" target="_blank">Nortus Fitness</a> </div>
-         <div class="col-md-3"> <a href="www.spanglesteel.com/" target="_blank">Spangle Steel Products</a> </div>
-         <div class="col-md-3"> <a href="www.davidrozman.co.uk" target="_blank">David Rozman</a> </div>
+ <div class="col-md-3"> <a href="https://www.membranedecors.com" target="_blank">Membrane Decors</a> </div>
+         <div class="col-md-3"> <a href="https://www.nortusfitness.com/" target="_blank">Nortus Fitness</a> </div>
+         <div class="col-md-3"> <a href="https://www.spanglesteel.com/" target="_blank">Spangle Steel Products</a> </div>
+         <div class="col-md-3"> <a href="https://www.davidrozman.co.uk/" target="_blank">David Rozman</a> </div>
 
          
           <div class="col-md-3"> <a href="https://dharaindustries.co.in/" target="_blank">Dhara Industries</a> </div>
